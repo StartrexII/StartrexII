@@ -20,5 +20,5 @@
 
 
 ### 🙌🏻 Contact me
-- <a href="" rel="nofollow"><img align="center" src="art/tg.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
+- <a href="https://t.me/kcoursephis" rel="nofollow"><img align="center" src="art/tg.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
 - <a href="https://vk.com/liquidlogic" rel="nofollow"><img align="center" src="art/vk.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
