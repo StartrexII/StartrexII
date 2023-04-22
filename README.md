@@ -10,9 +10,9 @@
 
 ### 💡 Core competencies 💡
 - Tools:
-  * Databases: Excel, CSV, PostgreSQL
-  * Python: NumPy, Pandas, SciPy, SymPy
-  * Visualisation: Plotly, Matplotlib, Seaborn 
+  * Databases: Excel, PostgreSQL
+  * Python: NumPy, Pandas
+  * Visualisation: Plotly, Seaborn 
 - Skills:
     * Data preparation and analysis
     * Database design and modelling
